@@ -8,34 +8,34 @@ wrapper 居中且宽度400px
 extra、navigation 150px，依次位于content两侧
 */
 #container {
-    width: 700px;
-    margin: 0 auto;
+  width: 700px;
+  margin: 0 auto;
 }
 
 #wrapper {
-    float: left;
-    width: 100%;
+  float: left;
+  width: 100%;
 }
 
 #content {
-    width: 400px;
-    margin-left: 150px;
-    margin-right: 150px;
+  width: 400px;
+  margin-left: 150px;
+  margin-right: 150px;
 }
 
 #navigation {
-    /*float: right;  也可以*/
-    float: left;
-    width: 150px;
-    margin-left: -150px;
+  /*float: right;  也可以*/
+  float: left;
+  width: 150px;
+  margin-left: -150px;
 }
 
 #extra {
-    float: left;
-    width: 150px;
-    margin-left: -700px;
+  float: left;
+  width: 150px;
+  margin-left: -700px;
 }
 
 #footer {
-    clear: both;
+  clear: both;
 }

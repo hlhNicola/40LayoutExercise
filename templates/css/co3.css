@@ -6,26 +6,24 @@ extra、navigation宽度25%，依次位于content右侧
 */
 
 #wrapper {
-    float: left;
-    width: 50%;
+  float: left;
+  width: 50%;
 }
 
-/*
-#content {
+/* #content {
     margin: 0%;
-}
-*/
+} */
 
 #navigation {
-    float: right;
-    width: 25%;
+  float: left;
+  width: 25%;
 }
 
 #extra {
-    float: left;
-    width: 25%;
+  float: left;
+  width: 25%;
 }
 
 #footer {
-    clear: left;
+  clear: left;
 }

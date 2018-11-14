@@ -5,29 +5,29 @@
 
 */
 #container {
-    width: 700px;
-    margin: 0 auto;
+  width: 700px;
+  margin: 0 auto;
 }
 
 #wrapper {
-    float: right;
-    width: 400px;
+  float: right;
+  width: 400px;
 }
 
 #content {
-    /*width: 400px;*/
+  /*width: 400px;*/
 }
 
 #navigation {
-    float: right;
-    width: 150px;
+  float: left;
+  width: 150px;
 }
 
 #extra {
-    float: left;
-    width: 150px;
+  float: left;
+  width: 150px;
 }
 
 #footer {
-    clear: both;
+  clear: both;
 }

@@ -6,8 +6,8 @@ navigation、extra 宽度25%，依次位于content左侧
 */
 
 #wrapper {
-    float: right;
-    width: 50%;
+  float: right;
+  width: 50%;
 }
 
 /*
@@ -17,15 +17,15 @@ navigation、extra 宽度25%，依次位于content左侧
 */
 
 #navigation {
-    float: left;
-    width: 25%;
+  float: right;
+  width: 25%;
 }
 
 #extra {
-    float: right;
-    width: 25%;
+  float: right;
+  width: 25%;
 }
 
 #footer {
-    clear: both;
+  clear: both;
 }
